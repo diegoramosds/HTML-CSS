@@ -1,0 +1,115 @@
+@charset "UTF-8";
+
+
+*{
+    margin: 0px;
+}
+
+nav{
+padding: 45px;
+background-color: black;
+color: white;
+margin: auto;
+text-align: center;
+}
+nav>h1{
+font-family:'Passion One',Verdana, Geneva, Tahoma, sans-serif;
+
+font-size:  130px;
+font-weight: bold; 
+
+}
+
+nav>p{
+color: white;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+nav a{
+    text-decoration: none;
+    color: white;
+}
+nav a:hover{
+    text-decoration: underline;
+    color: white;
+
+}
+.pp{
+
+    width: 600px;
+    height:720px;
+    font-size: 2.5em;
+    font-family: Sriracha, Verdana, Geneva, Tahoma, sans-serif;
+    padding: 75px 30px;
+    line-height: 2.3em;
+    font-weight: bold;
+
+}
+
+
+
+                                                                                    
+
+
+
+
+#fundotexto{
+    width: 97,1%;
+    height: 800px;
+    margin: auto;
+    background-color: rgb(0, 0, 0);
+    background-image:url('imagens/background001.jpg') ;
+    background-attachment:fixed ;
+    padding: 50px 30px;
+
+
+}
+
+#texto{
+    width: 620px;
+    height: 750px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+ 
+   
+  
+    
+
+}
+
+#fundotexto2{
+    width: 97,1%;
+    height: 800px;
+    margin: auto;
+    background-color: rgb(0, 0, 0);
+    background-image:url('imagens/background002.jpg') ;
+    background-attachment:fixed ;
+    padding: 70px 30px;
+}
+
+#texto2{
+    width: 620px;
+    height: 790px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+ 
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+
+
+}
+footer a{
+    text-decoration: none;
+    color: white;
+}
+
+footer a:hover{
+    color: white;
+    text-decoration: underline;
+}
+
