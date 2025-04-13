@@ -2,7 +2,7 @@
 
 Repositório com os exercícios práticos desenvolvidos durante o curso de HTML5 e CSS3.
 
-> Aprendendo a criar sites do zero e praticando com exercícios organizados por etapas. 🌐✨
+ Aprendendo a criar sites do zero e praticando com exercícios organizados por etapas. 🌐✨
 
 ---
 
